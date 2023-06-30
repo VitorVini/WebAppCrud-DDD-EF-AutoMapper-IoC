@@ -1,6 +1,9 @@
 C:\Users\vitor\source\repos\ProjetoDotNetDDD\ProjetoDotNetDDD.Application\bin\Debug\ProjetoDotNetDDD.Application.dll
 C:\Users\vitor\source\repos\ProjetoDotNetDDD\ProjetoDotNetDDD.Application\bin\Debug\ProjetoDotNetDDD.Application.pdb
+C:\Users\vitor\source\repos\ProjetoDotNetDDD\ProjetoDotNetDDD.Application\bin\Debug\ProjetoDotNetDDD.Domain.dll
+C:\Users\vitor\source\repos\ProjetoDotNetDDD\ProjetoDotNetDDD.Application\bin\Debug\ProjetoDotNetDDD.Domain.pdb
 C:\Users\vitor\source\repos\ProjetoDotNetDDD\ProjetoDotNetDDD.Application\obj\Debug\ProjetoDotNetDDD.Application.csproj.AssemblyReference.cache
 C:\Users\vitor\source\repos\ProjetoDotNetDDD\ProjetoDotNetDDD.Application\obj\Debug\ProjetoDotNetDDD.Application.csproj.CoreCompileInputs.cache
+C:\Users\vitor\source\repos\ProjetoDotNetDDD\ProjetoDotNetDDD.Application\obj\Debug\ProjetoDotNetDDD.Application.csproj.CopyComplete
 C:\Users\vitor\source\repos\ProjetoDotNetDDD\ProjetoDotNetDDD.Application\obj\Debug\ProjetoDotNetDDD.Application.dll
 C:\Users\vitor\source\repos\ProjetoDotNetDDD\ProjetoDotNetDDD.Application\obj\Debug\ProjetoDotNetDDD.Application.pdb

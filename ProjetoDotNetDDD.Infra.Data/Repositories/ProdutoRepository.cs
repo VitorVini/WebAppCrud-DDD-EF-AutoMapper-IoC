@@ -1,5 +1,5 @@
 ﻿using ProjetoDotNetDDD.Domain.Entities;
-using ProjetoDotNetDDD.Domain.Interfaces;
+using ProjetoDotNetDDD.Domain.Interfaces.Repositories;
 using System.Collections.Generic;
 using System.Linq;
 
