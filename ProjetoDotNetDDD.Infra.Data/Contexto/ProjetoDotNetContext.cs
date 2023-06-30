@@ -54,5 +54,9 @@ namespace ProjetoDotNetDDD.Infra.Data.Contexto
             } 
             return base.SaveChanges();
         }
+        private void FixEfProviderServicesProblem()
+        {
+            var instance = System.Data.Entity.SqlServer.SqlProviderServices.Instance;
+        }
     }
 }

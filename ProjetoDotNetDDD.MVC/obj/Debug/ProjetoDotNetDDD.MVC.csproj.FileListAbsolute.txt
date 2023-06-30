@@ -72,6 +72,7 @@ C:\Users\vitor\source\repos\ProjetoDotNetDDD\ProjetoDotNetDDD.MVC\bin\System.Web
 C:\Users\vitor\source\repos\ProjetoDotNetDDD\ProjetoDotNetDDD.MVC\bin\WebActivatorEx.dll
 C:\Users\vitor\source\repos\ProjetoDotNetDDD\ProjetoDotNetDDD.MVC\bin\WebGrease.dll
 C:\Users\vitor\source\repos\ProjetoDotNetDDD\ProjetoDotNetDDD.MVC\bin\EntityFramework.dll
+C:\Users\vitor\source\repos\ProjetoDotNetDDD\ProjetoDotNetDDD.MVC\bin\EntityFramework.SqlServer.dll
 C:\Users\vitor\source\repos\ProjetoDotNetDDD\ProjetoDotNetDDD.MVC\bin\ProjetoDotNetDDD.Application.pdb
 C:\Users\vitor\source\repos\ProjetoDotNetDDD\ProjetoDotNetDDD.MVC\bin\ProjetoDotNetDDD.Domain.pdb
 C:\Users\vitor\source\repos\ProjetoDotNetDDD\ProjetoDotNetDDD.MVC\bin\ProjetoDotNetDDD.Infra.Data.pdb
@@ -91,6 +92,7 @@ C:\Users\vitor\source\repos\ProjetoDotNetDDD\ProjetoDotNetDDD.MVC\bin\Newtonsoft
 C:\Users\vitor\source\repos\ProjetoDotNetDDD\ProjetoDotNetDDD.MVC\bin\Antlr3.Runtime.pdb
 C:\Users\vitor\source\repos\ProjetoDotNetDDD\ProjetoDotNetDDD.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\vitor\source\repos\ProjetoDotNetDDD\ProjetoDotNetDDD.MVC\bin\EntityFramework.xml
+C:\Users\vitor\source\repos\ProjetoDotNetDDD\ProjetoDotNetDDD.MVC\bin\EntityFramework.SqlServer.xml
 C:\Users\vitor\source\repos\ProjetoDotNetDDD\ProjetoDotNetDDD.MVC\obj\Debug\ProjetoDotNetDDD.MVC.csproj.AssemblyReference.cache
 C:\Users\vitor\source\repos\ProjetoDotNetDDD\ProjetoDotNetDDD.MVC\obj\Debug\ProjetoDotNetDDD.MVC.csproj.CoreCompileInputs.cache
 C:\Users\vitor\source\repos\ProjetoDotNetDDD\ProjetoDotNetDDD.MVC\obj\Debug\ProjetoDotNetDDD.MVC.csproj.CopyComplete
