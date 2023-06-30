@@ -192,6 +192,10 @@
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Clientes\Index.cshtml" />
     <Content Include="Views\Clientes\Create.cshtml" />
+    <Content Include="Views\Clientes\Delete.cshtml" />
+    <Content Include="Views\Clientes\Details.cshtml" />
+    <Content Include="Views\Clientes\Edit.cshtml" />
+    <Content Include="Views\Clientes\Especiais.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -224,13 +228,13 @@
     <Content Include="Scripts\jquery-3.4.1.min.map" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\ProjetoDotNetDDD.Application\ProjetoDotNetDDD.Application.csproj">
+      <Project>{eb643aac-e857-4388-a0de-b4f2a030b75e}</Project>
+      <Name>ProjetoDotNetDDD.Application</Name>
+    </ProjectReference>
     <ProjectReference Include="..\ProjetoDotNetDDD.Domain\ProjetoDotNetDDD.Domain.csproj">
       <Project>{ae677b7e-6117-4e95-9d0b-fe16765b5c4d}</Project>
       <Name>ProjetoDotNetDDD.Domain</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\ProjetoDotNetDDD.Infra.Data\ProjetoDotNetDDD.Infra.Data.csproj">
-      <Project>{d1a63109-922f-41d3-825c-eb34b846ea4f}</Project>
-      <Name>ProjetoDotNetDDD.Infra.Data</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
