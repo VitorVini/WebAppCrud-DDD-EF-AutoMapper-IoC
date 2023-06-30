@@ -1,0 +1,14 @@
+C:\Users\vitor\source\repos\ProjetoDotNetDDD\ProjetoDotNetDDD.Infra.Data\bin\Debug\ProjetoDotNetDDD.Infra.Data.dll.config
+C:\Users\vitor\source\repos\ProjetoDotNetDDD\ProjetoDotNetDDD.Infra.Data\bin\Debug\ProjetoDotNetDDD.Infra.Data.dll
+C:\Users\vitor\source\repos\ProjetoDotNetDDD\ProjetoDotNetDDD.Infra.Data\bin\Debug\ProjetoDotNetDDD.Infra.Data.pdb
+C:\Users\vitor\source\repos\ProjetoDotNetDDD\ProjetoDotNetDDD.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\vitor\source\repos\ProjetoDotNetDDD\ProjetoDotNetDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vitor\source\repos\ProjetoDotNetDDD\ProjetoDotNetDDD.Infra.Data\bin\Debug\ProjetoDotNetDDD.Domain.dll
+C:\Users\vitor\source\repos\ProjetoDotNetDDD\ProjetoDotNetDDD.Infra.Data\bin\Debug\ProjetoDotNetDDD.Domain.pdb
+C:\Users\vitor\source\repos\ProjetoDotNetDDD\ProjetoDotNetDDD.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\vitor\source\repos\ProjetoDotNetDDD\ProjetoDotNetDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vitor\source\repos\ProjetoDotNetDDD\ProjetoDotNetDDD.Infra.Data\obj\Debug\ProjetoDotNetDDD.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\vitor\source\repos\ProjetoDotNetDDD\ProjetoDotNetDDD.Infra.Data\obj\Debug\ProjetoDotNetDDD.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\vitor\source\repos\ProjetoDotNetDDD\ProjetoDotNetDDD.Infra.Data\obj\Debug\ProjetoDotNetDDD.Infra.Data.csproj.CopyComplete
+C:\Users\vitor\source\repos\ProjetoDotNetDDD\ProjetoDotNetDDD.Infra.Data\obj\Debug\ProjetoDotNetDDD.Infra.Data.dll
+C:\Users\vitor\source\repos\ProjetoDotNetDDD\ProjetoDotNetDDD.Infra.Data\obj\Debug\ProjetoDotNetDDD.Infra.Data.pdb
