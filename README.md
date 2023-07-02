@@ -1,5 +1,5 @@
 # WebAppCrud-DDD-EF-AutoMapper-IoC
-Este projeto é um exemplo de Web Application Crud desenvolvido em ASP.NET MVC 5, seguindo as práticas do Domain-Driven Design (DDD). O objetivo principal é fornecer uma estrutura sólida e modular, utilizando o Entity Framework (EF) como ORM para interagir com o banco de dados. O AutoMapper é utilizado para mapear objetos entre as camadas do projeto, simplificando o desenvolvimento. Além disso, foi implementada a inversão de controle (IoC) para facilitar a resolução de dependências.
+Este projeto é um exemplo de Web Application Crud desenvolvido em ASP.NET MVC 5, seguindo as práticas do Domain-Driven Design (DDD). O objetivo principal é fornecer uma estrutura sólida e modular, utilizando o Entity Framework (EF) como ORM para interagir com o banco de dados. O AutoMapper é utilizado para mapear objetos entre as camadas do projeto, simplificando o desenvolvimento. Além disso, foi implementada a inversão de controle (IoC) para facilitar a resolução de dependências. O projeto possui recursos incríveis para gerenciar clientes e produtos.
 
 ## Características
 ASP.NET MVC 5
